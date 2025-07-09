@@ -14,6 +14,8 @@ import java.time.LocalDateTime;
 @AllArgsConstructor
 public class Category {
 
+    // hehe
+
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
