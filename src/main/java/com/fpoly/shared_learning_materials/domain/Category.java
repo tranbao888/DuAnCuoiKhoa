@@ -14,7 +14,7 @@ import java.time.LocalDateTime;
 @AllArgsConstructor
 public class Category {
 
-    // hehe
+    // hehehehe
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
